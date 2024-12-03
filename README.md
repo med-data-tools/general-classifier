@@ -23,6 +23,10 @@ The publication is about a general text classification framework using large lan
 
 A python jupyter script used to run the general classifier. Note: In order to use cloud-based services, such as DeepInfra, a valid API-key has to be provided.
 
-### data sets
+### datasets
 
-The data set files for the nine questions used in the study. The files contain the text about oncological trials with the corresponding labels.
+The dataset files for the nine questions used in the study. The files contain the text about oncological trials with the corresponding labels (TRUE or FALSE).
+
+### prompts.docx
+A text file containing the prompts used in the experiments for the classifications.
+
