@@ -10,8 +10,7 @@ Fabio Dennstädt, Paul Windisch, Irina Filchenko, Johannes Zink, Paul Martin Put
 
 Title:
 Application of a general LLM-based classification system to retrieve information about oncological trials.\
-*XXXXXX, DOI XXXXX
-
+https://doi.org/10.1101/2024.12.03.24318390 [Preprint]
 ---
 
 The publication is about a general text classification framework using large language models (LLMs). The general classifier has been evaluated on different classification tasks using oncological trials.
